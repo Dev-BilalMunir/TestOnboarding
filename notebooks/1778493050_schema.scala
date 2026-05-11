@@ -1,0 +1,6 @@
+val schema_1778493050 = new StructType()
+  .add("patient_id", "string")
+  .add("date_of_birth", "string")
+  .add("address_us_state", "string")
+  .add("address_us_zip", "string")
+  .add("date_of_service", "string")
