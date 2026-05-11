@@ -1,6 +1,6 @@
 // Databricks notebook source
 // MAGIC %md
-// MAGIC ## NeoGenomics — NeoGenomics lab data
+// MAGIC ## NeoGenomics — Patient lab data
 
 // COMMAND ----------
 
