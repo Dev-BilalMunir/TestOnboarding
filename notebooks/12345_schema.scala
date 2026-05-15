@@ -1,5 +1,0 @@
-val schema_12345 = new StructType()
-  .add("patient_id", "string")
-  .add("date_of_birth", "string")
-  .add("specimen_type", "string")
-  .add("gene", "string")
