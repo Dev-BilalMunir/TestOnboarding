@@ -334,6 +334,21 @@ case class ZipProcessor(
 
 // MAGIC %md ### Schemas
 
+val schema_1779106186 = new StructType()
+  .add("member_id", "string")
+  .add("subscriber_id", "string")
+  .add("first_name", "string")
+  .add("last_name", "string")
+  .add("date_of_birth", "string")
+  .add("gender", "string")
+  .add("address_us_state", "string")
+  .add("address_us_zip", "string")
+  .add("coverage_start_date", "string")
+  .add("coverage_end_date", "string")
+  .add("payer_name", "string")
+  .add("plan_type", "string")
+
+
 // COMMAND ----------
 
 val schema_10100 = new StructType()
